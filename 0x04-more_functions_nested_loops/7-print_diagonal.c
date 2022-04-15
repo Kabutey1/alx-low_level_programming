@@ -3,6 +3,6 @@
 <plist version="1.0">
 <dict>
 	<key>URL</key>
-	<string>https://github.com/Blessingdev233/alx-low_level_programming/blob/main/0x04-more_functions_nested_loops/7-print_diagonal.c</string>
+	<string>https://github.com/Kabutey1/alx-low_level_programming/blob/main/0x04-more_functions_nested_loops/7-print_diagonal.c</string>
 </dict>
 </plist>
